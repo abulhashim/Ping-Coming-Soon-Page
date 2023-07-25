@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/ping-coming-soon-page](https://www.frontendmentor.io/solutions/ping-coming-soon-page)
+- Solution URL: [frontendmentor.io/solutions/ping-coming-soon-page](https://www.frontendmentor.io/solutions/ping-coming-soon-page-zGYpsKRnpp)
 - Live Site URL: [abulhashim.github.io/Ping-Coming-Soon-Page](https://abulhashim.github.io/Ping-Coming-Soon-Page/)
 
 ## My process
